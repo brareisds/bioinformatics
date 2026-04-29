@@ -113,10 +113,6 @@
 
 > Se o ambiente imprime modificações sistemáticas, cada grupo ambiental deve apresentar **perfil químico distinto** nas posições discriminantes, por exemplo, mais aminoácidos **apolares** em hipertermófilos e mais **polares e carregados** em psicrófìlos.
 
-
-(obs se ficar muito feio com esse texto de hipótese testada pode tirar e deixar so as duas tabelas acima no slide ksks)
-
-
 obs: se sobrar espaço dá para colocar os gŕaficos de resultado abaixo nesse mesmo slide (as imagens estao na pasta imagens):
 
 ## gyrA
