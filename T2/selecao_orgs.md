@@ -7,15 +7,15 @@ Os organismos foram selecionados a partir de:
 - **Millán Arias et al. (2023)**: Supplementary Table S1, que reúne ~700 genomas procarióticos com temperatura ótima de crescimento (OGT) conhecida. Quatro dos sete organismos foram retirados diretamente dessa tabela. (os mesmos do trabalho 1)
 - **Literatura de extremófilos**: Três organismos foram adicionados além da tabela original para garantir diversidade filogenética entre as bactérias hipertermófilas e termófilas.
 
-| Organismo | Domínio | Filo | Categoria | OGT | Assembly NCBI | Fonte |
+| Organismo | Domínio | Filo | Categoria | OGT | Assembly NCBI | 
 |---|---|---|---|---|---|---|
-| *Thermocrinis ruber* | Bacteria | Aquificae | Hipertermófilo | >80°C | GCA_000512735.1 | Millán Arias |
-| *Thermotoga maritima* | Bacteria | Thermotogae | Hipertermófilo | >80°C | GCA_000008545.1 | Millán Arias |
-| *Aquifex aeolicus* | Bacteria | Aquificae | Hipertermófilo | ~95°C | GCA_000008625.1 | Literatura |
-| *Thermus thermophilus* | Bacteria | Deinococcus-Thermus | Termófilo | ~65°C | GCA_000196015.1 | Literatura |
-| *Escherichia fergusonii* | Bacteria | Pseudomonadota | Mesófilo | 20–45°C | GCA_000026225.1 | Millán Arias |
-| *Psychrobacter arcticus* | Bacteria | Pseudomonadota | Psicrófilo | <20°C | GCA_000012305.1 | Millán Arias |
-| *Psychromonas ingrahamii* | Bacteria | Pseudomonadota | Psicrófilo | −12°C | GCA_000015285.1 | Millán Arias |
+| *Thermocrinis ruber* | Bacteria | Aquificae | Hipertermófilo | >80°C | GCA_000512735.1 | 
+| *Thermotoga maritima* | Bacteria | Thermotogae | Hipertermófilo | >80°C | GCA_000008545.1 | 
+| *Aquifex aeolicus* | Bacteria | Aquificae | Hipertermófilo | ~95°C | GCA_000008625.1 | 
+| *Thermus thermophilus* | Bacteria | Deinococcus-Thermus | Termófilo | ~65°C | GCA_000196015.1 | 
+| *Escherichia fergusonii* | Bacteria | Pseudomonadota | Mesófilo | 20–45°C | GCA_000026225.1 |
+| *Psychrobacter arcticus* | Bacteria | Pseudomonadota | Psicrófilo | <20°C | GCA_000012305.1 | 
+| *Psychromonas ingrahamii* | Bacteria | Pseudomonadota | Psicrófilo | −12°C | GCA_000015285.1 | 
 
 ---
 
