@@ -1,4 +1,4 @@
-# Análise Filogenética — Trabalho 2
+# Análise Filogenética - Trabalho 2
 
 ## Organismos selecionados
 
@@ -13,9 +13,9 @@ Os organismos foram selecionados a partir de:
 | *Thermotoga maritima* | Bacteria | Thermotogae | Hipertermófilo | >80°C | GCA_000008545.1 | Millán Arias |
 | *Aquifex aeolicus* | Bacteria | Aquificae | Hipertermófilo | ~95°C | GCA_000008625.1 | Literatura |
 | *Thermus thermophilus* | Bacteria | Deinococcus-Thermus | Termófilo | ~65°C | GCA_000196015.1 | Literatura |
-| *Escherichia fergusonii* | Bacteria | Proteobacteria | Mesófilo | 20–45°C | GCA_000026225.1 | Millán Arias |
-| *Psychrobacter arcticus* | Bacteria | Proteobacteria | Psicrófilo | <20°C | GCA_000012305.1 | Millán Arias |
-| *Psychromonas ingrahamii* | Bacteria | Proteobacteria | Psicrófilo | −12°C | GCA_000015285.1 | Millán Arias |
+| *Escherichia fergusonii* | Bacteria | Pseudomonadota | Mesófilo | 20–45°C | GCA_000026225.1 | Millán Arias |
+| *Psychrobacter arcticus* | Bacteria | Pseudomonadota | Psicrófilo | <20°C | GCA_000012305.1 | Millán Arias |
+| *Psychromonas ingrahamii* | Bacteria | Pseudomonadota | Psicrófilo | −12°C | GCA_000015285.1 | Millán Arias |
 
 ---
 
