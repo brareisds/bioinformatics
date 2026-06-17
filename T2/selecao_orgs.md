@@ -8,7 +8,7 @@ Os organismos foram selecionados a partir de:
 - **Literatura de extremófilos**: Três organismos foram adicionados além da tabela original para garantir diversidade filogenética entre as bactérias hipertermófilas e termófilas.
 
 | Organismo | Domínio | Filo | Categoria | OGT | Assembly NCBI | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | *Thermocrinis ruber* | Bacteria | Aquificae | Hipertermófilo | >80°C | GCA_000512735.1 | 
 | *Thermotoga maritima* | Bacteria | Thermotogae | Hipertermófilo | >80°C | GCA_000008545.1 | 
 | *Aquifex aeolicus* | Bacteria | Aquificae | Hipertermófilo | ~95°C | GCA_000008625.1 | 
